@@ -1,5 +1,5 @@
 # Youtube UX/UI
-
+Link do Documento: [https://docs.google.com/document/d/13Gify14-HaodiMDcUJk1oJx7_dp5m7xGaMDJJ435p04/edit?usp=sharing]
 Link Protótipo no Figma: [https://www.figma.com/file/mgXl1nPrcuGbBkQs79H4PP/YouTube---A3-Rafaela]
 
 <img alt="logo" src="https://user-images.githubusercontent.com/85580881/204068558-aea9a886-3025-4c05-ad2c-db3ba4937ddc.png"/>
