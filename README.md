@@ -1,5 +1,5 @@
 # Youtube UX/UI
-#Usar fundo Escuro. Montanha.
+# Usar fundo Escuro. Montanha.
 Link do Documento: [https://docs.google.com/document/d/13Gify14-HaodiMDcUJk1oJx7_dp5m7xGaMDJJ435p04/edit?usp=sharing]
 Link Protótipo no Figma: [https://www.figma.com/file/mgXl1nPrcuGbBkQs79H4PP/YouTube---A3-Rafaela]
 
